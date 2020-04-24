@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 11302
 ## Title: SharedMedia Torkt
 ## Notes: Plugs Torkt's favorite style fonts into LibSharedMedia-3.0
 
@@ -7,10 +7,8 @@
 
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
 
-#@no-lib-strip@
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
-#@end-no-lib-strip@
 
 Main.lua
