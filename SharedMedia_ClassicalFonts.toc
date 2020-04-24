@@ -2,7 +2,7 @@
 ## Title: SharedMedia Torkt
 ## Notes: Plugs Torkt's favorite style fonts into LibSharedMedia-3.0
 
-## Version: @project-version@
+## Version: 1.0
 ## Author: Jujubes of Benediction (Horde, Vintage)
 
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
