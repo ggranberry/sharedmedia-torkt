@@ -1,6 +1,6 @@
 ## Interface: 80300
-## Title: SharedMedia Classical Fonts
-## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
+## Title: SharedMedia Torkt
+## Notes: Plugs Torkt's favorite style fonts into LibSharedMedia-3.0
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
 ## Notes-deDE: @localization(locale="deDE", key="Notes", namespace="ToC")@
 ## Notes-koKR: @localization(locale="koKR", key="Notes", namespace="ToC")@
@@ -13,7 +13,7 @@
 ## Notes-frFR: @localization(locale="frFR", key="Notes", namespace="ToC")@
 
 ## Version: @project-version@
-## Author: Sygon of Lightbringer-US (Alliance, Crimson Embers)
+## Author: Jujubes of Benediction (Horde, Vintage)
 ## X-Category: Plugins
 ## X-License: Public Domain. See Licences folder for details
 ## X-Date: @project-date-iso@

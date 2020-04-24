@@ -1,4 +1,4 @@
-package-as: SharedMedia_ClassicalFonts
+package-as: SharedMedia_Torkt
 
 externals:
     Libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
